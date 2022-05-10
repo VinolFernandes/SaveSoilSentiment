@@ -6,11 +6,11 @@ import pandas as pd
 # config = configparser.ConfigParser()
 # config.read('config.ini')
 
-api_key = "PQZb1SJqLjD5RoBKhVpWdXeTZ"
-api_key_secret ="YH7A0fH6pUiMEQQsyIeni03C4AAzkv9yN19e0dNEnst3GXKxFQ"
+api_key = "#"
+api_key_secret ="#"
 
-access_token = "1028537106-8bmkhgbXDNJgn7b1kOjcRHvniOab9TDh2S4KIDb"
-access_token_secret = "gGp9iU4STCQJzp2uYCfzOLHxV1XLCcqHfEhga6DxCXzlp"
+access_token = "#"
+access_token_secret = "#"
 
 # authentication
 auth = tweepy.OAuthHandler(api_key, api_key_secret)
